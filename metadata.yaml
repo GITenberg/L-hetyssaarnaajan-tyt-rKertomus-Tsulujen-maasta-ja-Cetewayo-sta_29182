@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1409'
     url: http://www.gutenberg.org/2009/agents/1409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29182#L-hetyssaarnaajan-tyt-rKertomus-Tsulujen-maasta-ja-Cetewayo-sta
 gutenberg_issued: '2009-06-20'
 gutenberg_type: Text
 identifiers:
