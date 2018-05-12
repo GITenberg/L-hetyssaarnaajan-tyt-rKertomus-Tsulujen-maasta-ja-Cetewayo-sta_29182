@@ -1,0 +1,28 @@
+_repo: L-hetyssaarnaajan-tyt-rKertomus-Tsulujen-maasta-ja-Cetewayo-sta_29182
+_version: 0.1.0
+alternative_title: Ula in veldt and laager. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eden, Charles H. (Charles Henry)
+    alias: Eden, Charles Henry
+    birthdate: 1839
+    deathdate: 1900
+    gutenberg_agent_id: '1409'
+    url: http://www.gutenberg.org/2009/agents/1409
+description: ''
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29182'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Zulu (African people) -- Fiction'
+title: 'Lähetyssaarnaajan tytär: Kertomus Tsulujen maasta ja Cetewayo''sta'
+url: http://www.gutenberg.org/ebooks/29182
